@@ -160,7 +160,7 @@ header .text p {
 
 .active,
 .menu ul li:hover {
-  background: rgb(142, 160, 41);
+  background: #137dad;
   /* border-radius: 6px; */
 }
 main > * {
@@ -255,8 +255,8 @@ main > * {
 .icon {
   /* border: solid; */
   position: fixed;
-  bottom: 100px;
-  right: 20px;
+  bottom: 170px;
+  right: -30px;
 }
 i {
   font-size: 2rem;
