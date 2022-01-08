@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@600;700&family=Montserrat:wght@300;400;500;700&family=Ubuntu:wght@300&family=Ultra&display=swap");
+import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@600;700&family=Montserrat:wght@300;400;500;700&family=Ubuntu:wght@300&family=Ultra&display=swap");
 
 :root {
   --color1: #f1f7f7;
@@ -66,7 +66,7 @@ body {
   border-radius: 30px;
 }
 .ts-scrollbar::-webkit-scrollbar-thumb:hover {
-  background: #ffffff;
+  background: #0f0f0f;
 }
 .ts-scrollbar::-webkit-scrollbar-thumb:active {
   background: #5a5454fd;
